@@ -7,6 +7,7 @@ Dorohedoro
 Dungeon Meshi
 Magi
 Trigun
+Hunter x Hunter
 Taming Master
 Monster Pet Evolution
 Tower of God
