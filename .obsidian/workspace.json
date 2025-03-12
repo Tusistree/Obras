@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obras.md",
+                "file": "Notas/Jogos/Warcraft/Arqueologia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obras"
+              "title": "Arqueologia"
             }
           }
         ]
@@ -168,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6322bf0597c00a32",
+  "active": "071c3ee32884b5a9",
   "lastOpenFiles": [
-    "Obras.md"
+    "Notas/Jogos/Warcraft/Conquistas.md",
+    "Notas/Jogos/Warcraft/Arqueologia.md",
+    "Notas/Jogos/Warcraft/Imagens",
+    "Notas/Obras.md",
+    "Notas/Jogos/Warcraft",
+    "Notas/Jogos",
+    "Notas"
   ]
 }
